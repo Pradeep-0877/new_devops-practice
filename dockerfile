@@ -1,2 +1,3 @@
 From Dockerfil
-ABCDEFGe
+ABCDEF
+this is a dummy fileGe
